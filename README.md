@@ -1,22 +1,22 @@
-Website Blocker Chrome Extension 🚀
+# Website Blocker Chrome Extension 🚀
 
-A Chrome extension that allows users to block distracting websites and stay focused. The extension provides an easy-to-use interface for managing blocked websites directly from the browser.
+### A Chrome extension that allows users to block distracting websites and stay focused. The extension provides an easy-to-use interface for managing blocked websites directly from the browser.
 
-Installation 🛠️
+### Installation 🛠️
 
-For Development
+#### For Development
 
-1. Clone the repository
+##### 1. Clone the repository
    
     git clone https://github.com/Vishvesh28/website-extension.git
    
     cd website-extension
    
-3. Install dependencies
+##### 2. Install dependencies
 
     npm install
    
-5. Load the extension in Chrome
+##### 3. Load the extension in Chrome
 
     Open chrome://extensions/ in Chrome.
 
