@@ -7,12 +7,15 @@ Installation 🛠️
 For Development
 
 1. Clone the repository
+   
     git clone https://github.com/Vishvesh28/website-extension.git
     cd website-extension
-2. Install dependencies
+   
+3. Install dependencies
+
     npm install
    
-3. Load the extension in Chrome
+5. Load the extension in Chrome
 
     Open chrome://extensions/ in Chrome.
 
