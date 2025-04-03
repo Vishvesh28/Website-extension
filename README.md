@@ -9,6 +9,7 @@ For Development
 1. Clone the repository
    
     git clone https://github.com/Vishvesh28/website-extension.git
+   
     cd website-extension
    
 3. Install dependencies
